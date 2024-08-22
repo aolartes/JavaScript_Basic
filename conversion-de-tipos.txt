@@ -1,0 +1,33 @@
+lenguajes de programación:
+Compilados:
+    --> C
+    --> C++
+    --> Rust
+    --> Go
+    --> Swift
+    --> Kotlin
+    --> Java
+    --> C#
+        Chequeo Estatico de tipos
+
+Interpretados:
+    --> Python
+    --> Ruby
+    --> JavaScript
+    --> PHP
+    --> Perl
+    --> Shell
+    --> Lua
+    --> R
+    --> TypeScript
+        Chequeo Dinamico de tipos
+
+---conversion-de-tipos.js---
+
+implicita:
+    2 + true = 3
+Explicita:
+    String(2) + '2' = '22';
+    Number('2') + 2 = 4;
+    Boolean(1) = true;
+    Boolean(0) = false;
